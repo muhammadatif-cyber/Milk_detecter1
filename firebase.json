@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"milkdetecter","appId":"1:771838938733:android:dbfe0df825b24398bc7964","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"milkdetecter","configurations":{"android":"1:771838938733:android:dbfe0df825b24398bc7964","ios":"1:771838938733:ios:8b8350daf8305302bc7964"}}}}}}

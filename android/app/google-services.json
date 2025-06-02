@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "771838938733",
+    "project_id": "milkdetecter",
+    "storage_bucket": "milkdetecter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771838938733:android:dbfe0df825b24398bc7964",
+        "android_client_info": {
+          "package_name": "com.example.milk_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771838938733-6pf5tg6qg4k3ae5e2l35tukn86ef70o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCw8YPwPk9ScF7qSIKXLLRoau_mrUMy4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771838938733-6pf5tg6qg4k3ae5e2l35tukn86ef70o7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771838938733-hlh7v3vl8rt3crihf1l5ftl373kt3gv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milkDetection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
